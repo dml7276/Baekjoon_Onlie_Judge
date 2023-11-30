@@ -1,20 +1,16 @@
-package Bronze;
+package CLASS1;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class P10952 {
+public class P10950 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
+		int t = scanner.nextInt();
 		ArrayList<Integer> integers = new ArrayList<>();
 
-		while (true) {
-			int a = scanner.nextInt();
-			int b = scanner.nextInt();
-			if (a + b == 0) {
-				break;
-			}
-			integers.add(a + b);
+		for (int i = 0; i < t; i++) {
+			integers.add(scanner.nextInt() + scanner.nextInt());
 		}
 
 		for (Integer integer : integers) {

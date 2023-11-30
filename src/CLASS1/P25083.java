@@ -1,4 +1,4 @@
-package Bronze;
+package CLASS1;
 
 public class P25083{
     public static void main(String[] args) {

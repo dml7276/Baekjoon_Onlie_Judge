@@ -1,12 +1,12 @@
-package Bronze;
+package CLASS1;
 
 import java.util.Scanner;
 
-public class P11654 {
+public class P2743 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		char charAt = scanner.next().charAt(0);
+		String str = scanner.nextLine();
 
-		System.out.println((int)charAt);
+		System.out.println(str.length());
 	}
 }
