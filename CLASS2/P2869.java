@@ -2,7 +2,7 @@ package CLASS2;
 
 import java.util.Scanner;
 
-public class P2775 {
+public class P2869 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		long dayTime = sc.nextInt();
