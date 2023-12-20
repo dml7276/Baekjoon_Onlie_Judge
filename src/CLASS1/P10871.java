@@ -1,4 +1,4 @@
-package CLASS1;
+package src.CLASS1;
 
 import java.util.Scanner;
 public class P10871 {

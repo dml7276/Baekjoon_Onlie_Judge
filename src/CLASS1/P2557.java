@@ -1,4 +1,4 @@
-package CLASS1;
+package src.CLASS1;
 
 class P2557 {
     public static void main (String[] args) {
