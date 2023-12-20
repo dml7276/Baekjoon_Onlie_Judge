@@ -1,4 +1,4 @@
-package CLASS2;
+package src.CLASS2;
 
 import java.util.ArrayList;
 import java.util.Scanner;

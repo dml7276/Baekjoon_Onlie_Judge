@@ -1,4 +1,4 @@
-package CLASS2;
+package src.CLASS2;
 
 import java.math.BigInteger;
 import java.util.Scanner;
