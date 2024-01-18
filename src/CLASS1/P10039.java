@@ -10,7 +10,7 @@ public class P10039 {
 
         for (int i = 0; i < 5; i++) {
             a = scanner.nextInt();
-            if (a < 40) { a = 40; }
+            if (a < 40) a = 40;
             result += a;
         }
 
